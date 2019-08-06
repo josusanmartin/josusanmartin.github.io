@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Libra, Libra, Libra, Libra, Libra, Libra… Ah, y Bitcoin llegó a los 11,000USD (#44)"
+date:   2019-06-24 09:00:00 -0600
+categories: newsletter
+---
+
+![Banner](/../images/banner.png)
+
+
+
+<p dir="ltr" style="text-align: justify;margin-top: 50px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">Agustín Carstens, director del Banco Internacional de Pagos, ex-gobernador del Banco de México e invitado frecuente en este newsletter, dio un giro de 180 grados esta semana al anunciar <a href="https://www.ft.com/content/428a0b20-99b0-11e9-9573-ee5cbb98ed36" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">que sí existe la necesidad de divisas digitales emitidas por bancos centrales, y que éstas podrían llegar antes de lo inicialmente </a><a href="https://www.ft.com/content/428a0b20-99b0-11e9-9573-ee5cbb98ed36" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">esperado</a>. Esto contrasta con<a href="https://www.bis.org/speeches/sp190322.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;"> el discurso que dio hace tan sólo 3 meses </a>en el que declaró, que las criptodivisas emitidas por bancos centrales podrían llegar a tener un impacto inesperado en el sistema bancario y reducir la flexibilidad de la política monetaria. Este cambio tan abrupto se debió nada más y nada menos que a Libra, puesto que Carstens vio que si los bancos centrales no emiten sus propias criptomonedas&nbsp;lo hará&nbsp;la iniciativa privada.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">BitMEX, el mercado de futuros de Bitcoin (no tiene nada que ver con México, Mercantile EXchange), rompió dos nuevos récords esta semana. <a href="https://twitter.com/BitMEXdotcom/status/1144049870178848768" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Por un lado llegó a los 16 mil millones de dólares tradeados en 24 horas</a>, y por otro lado, superó el<a href="https://finance.yahoo.com/news/bitmex-clocked-1-trillion-volumes-145648718.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">&nbsp;billón de dólares tradeados en los últimos 365 días</a>. Unas cifras mayores aún que las&nbsp;del bull market de 2017 e inicios de 2018.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://www.coindesk.com/square-is-expanding-access-to-bitcoin-deposits-for-cash-app-users?utm_source=twitter&amp;utm_medium=coindesk&amp;utm_term=&amp;utm_content=&amp;utm_campaign=Organic%20" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El wallet de Square, Cash App, habilitó los depósitos y retiros de Bitcoin</a>. Hasta ahora la app, que sólo está disponible en Estados Unidos, permitía comprar y vender Bitcoins, pero no podían salir de la plataforma.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://www.dw.com/en/eu-mechanism-for-trade-with-iran-now-operational/a-49407662" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">La Unión Europea anunció un mecanismo financiero que permitirá a los países miembros comerciar con Irán a pesar de las sanciones impuestas por Estados Unidos.</a> A pesar de que no hay criptomonedas involucradas me pareció interesante esta noticia&nbsp;porque la solución planteada por Europa prescinde del uso de SWIFT, que es la asociación controlada&nbsp;por el gobierno de Estados Unidos que prácticamente monopoliza el envío de transferencias internacionales.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://cointelegraph.com/news/goldman-sachs-looking-at-potential-of-creating-virtual-currency-ceo-reveals" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Goldman Sachs dijo que está valorando crear su propia criptomoneda</a>. Le auguro el mismo éxito a la de JP Morgan:&nbsp;ninguno.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">Varios exchanges, <a href="https://cointelegraph.com/news/binance-discussing-libra-with-facebook-exchange-exec-reveals" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">entre ellos Binance</a>, están ya hablando con Facebook como potenciales socios de Libra.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">&nbsp;</p>
+
+---
+
+#### LECTURA DE LA SEMANA
+
+<div>
+<a href="https://stratechery.com/2019/facebook-libra-and-the-long-game/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Facebook, Libra, and the Long Game</a>
+
+Siempre es un gusto leer Stratechery, y si habla de crypto más. Su último artículo es sobre Libra, y es un extenso análisis de los objetivos que estaría buscando Facebook a largo plazo con el lanzamiento de la criptodivisa.
+
+</div>
+
+**LECTURA DE LA SEMANA**
+
+<div style="text-align: center;">[Crypto is here to stay?](https://marginalrevolution.com/marginalrevolution/2019/06/crypto-is-here-to-stay.html)  
+ </div>
+
+<div style="text-align: justify;">Esta semana van dos lecturas, ya que Tyler Cowen, uno de mis economistas favoritos, por fin se convenció de que crypto es el futuro. Cowen lleva siguiendo varios años el espacio de las criptomonedas, pero había ciertas preocupaciones que no le permitían apoyarlas por completo. [Este hilo de tweeter recoge varios de los artículos que ha escrito al respecto, el primero siendo de abril de 2013](https://twitter.com/tonysheng/status/1144630555381604352), cuando el precio del bitcoin rondaba los $100 dólares.</div>
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

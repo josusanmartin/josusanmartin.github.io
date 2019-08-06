@@ -1,0 +1,3 @@
+#Run commands in terminal on root page
+
+bundle exec jekyll serve
