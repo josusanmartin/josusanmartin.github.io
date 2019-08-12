@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Libra, Libra, Libra, Libra, Libra, Libra… Ah, y Bitcoin llegó a los 11,000USD (#44)"
-date:   2019-06-24 09:00:00 -0600
-categories: newsletter
+title:  "45 - Libra obliga a bancos centrales a emitir sus criptos, BitMEX marca récords históricos y el mercado sigue creciendo"
+date:   2019-07-01 09:00:00 -0600
+categories: crypto-weekly
 ---
 
 ![Banner](/../images/banner.png)
@@ -23,24 +23,25 @@ categories: newsletter
 
 <p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">&nbsp;</p>
 
----
-
-#### LECTURA DE LA SEMANA
-
-<div>
-<a href="https://stratechery.com/2019/facebook-libra-and-the-long-game/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Facebook, Libra, and the Long Game</a>
-
-Siempre es un gusto leer Stratechery, y si habla de crypto más. Su último artículo es sobre Libra, y es un extenso análisis de los objetivos que estaría buscando Facebook a largo plazo con el lanzamiento de la criptodivisa.
-
+<div style="border: 3px solid black;background: #F2F2F2; padding: 10px">
+<div style="text-align: center;">
+	<h3>LECTURAS DE LA SEMANA</h3>
 </div>
 
-**LECTURA DE LA SEMANA**
+<div>
+<div style="text-align: center;">
+<p dir="ltr" style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;"><strong id="docs-internal-guid-0094980f-7fff-2ee4-e338-8191fb91f4b2"><a href="https://stratechery.com/2019/facebook-libra-and-the-long-game/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El fallido combate al lavado de dinero en México</a></strong></p>
 
-<div style="text-align: center;">[Crypto is here to stay?](https://marginalrevolution.com/marginalrevolution/2019/06/crypto-is-here-to-stay.html)  
- </div>
+<p dir="ltr" style="text-align: justify;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;">Siempre es un gusto leer Stratechery, y si habla de crypto más. Su último artículo es sobre Libra, y es un extenso análisis de los objetivos que estaría buscando Facebook a largo plazo con el lanzamiento de la criptodivisa.</p>
 
-<div style="text-align: justify;">Esta semana van dos lecturas, ya que Tyler Cowen, uno de mis economistas favoritos, por fin se convenció de que crypto es el futuro. Cowen lleva siguiendo varios años el espacio de las criptomonedas, pero había ciertas preocupaciones que no le permitían apoyarlas por completo. [Este hilo de tweeter recoge varios de los artículos que ha escrito al respecto, el primero siendo de abril de 2013](https://twitter.com/tonysheng/status/1144630555381604352), cuando el precio del bitcoin rondaba los $100 dólares.</div>
 
+<p dir="ltr" style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;"><strong id="docs-internal-guid-0094980f-7fff-2ee4-e338-8191fb91f4b2"><a href="https://marginalrevolution.com/marginalrevolution/2019/06/crypto-is-here-to-stay.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El fallido combate al lavado de dinero en México</a></strong></p>
+
+<p dir="ltr" style="text-align: justify;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;">Esta semana van dos lecturas, ya que Tyler Cowen, uno de mis economistas favoritos, por fin se convenció de que crypto es el futuro. Cowen lleva siguiendo varios años el espacio de las criptomonedas, pero había ciertas preocupaciones que no le permitían apoyarlas por completo. <a href="https://twitter.com/tonysheng/status/1144630555381604352" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Este hilo de tweeter recoge varios de los artículos que ha escrito al respecto, el primero siendo de abril de 2013 </a> cuando el precio del bitcoin rondaba los $100 dólares.</p>
+
+</div>
+</div>
+</div>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

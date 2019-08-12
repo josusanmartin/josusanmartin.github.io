@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "50 - El SAT estadounidense asusta a los dueños de criptomonedas, el regulador del Reino Unido emite lineamientos sobre crypto y Square sigue vendiendo BTCs"
+date:   2019-08-05 09:00:00 -0600
+categories: crypto-weekly
+---
+
+![Banner](/../images/banner.png)
+
+ <p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://www.theguardian.com/technology/2019/jul/27/irs-tax-cryptocurrency-bitcoin-income" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El IRS, el equivalente del SAT en Estados Unidos, envió cartas a más de 10,000 contribuyentes alertándolos sobre la necesidad de declarar sus ganancias de criptomonedas.</a> Parece que la administración tributaria obtuvo la información de <a href="https://www.coinbase.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Coinbase</a>, el principal exchange estaodunidense.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="http://coindesk.com/uk-financial-watchdog-issues-full-guidance-on-crypto-assets" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El regulador financiero del Reino Unido, la Financial Conduct Authority (FCA), emitió lineamientos relacionados con criptomonedas</a>. En el documento establece que Bitcoin o Ether son considerados “exchange tokens” y que por lo tanto no caen bajo la regulación de “e-money”, ni ninguna otra. Su única obligación es con las reglas de AML/CFT. Lo más preocupante del informe es que establece la prohibición de ofrecer derivados (futuros, opciones, swaps…) de crypto a inversionistas retail (personas normales). Esto dejaría a los ciudadanos británicos fuera de plataformas como <a href="https://www.bitmex.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Bitmex</a> o <a href="https://www.deribit.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Deribit</a>.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://s21.q4cdn.com/114365585/files/doc_financials/2019/Q2/2019-Q2-Shareholder-Letter-Square.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Square sigue vendiendo Bitcoins a través de Cash App, $125 millones de dólares en el segundo trimestre de 2019</a>. Con esta cifra dobló el récord del primer trimestre de $65.5 millones. Esta noticia valida la idea de que si la gente tiene una opción fácil de comprar un poquito de Bitcoin (está limitada la compra semanal por usuario a $10,000USD), lo hace.&nbsp;<br>
+<br>
+Cada cierto tiempo los legisladores de Estados Unidos empiezan a hablar de la posibilidad de prohibir las criptomonedas, para terminar dándose cuenta de lo inviable que es esta opción. <a href="https://www.forbes.com/sites/ktorpey/2019/07/30/us-lawmakers-are-realizing-they-cant-ban-bitcoin/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_term=Carrie%2F#2d8205e93e31" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Este artículo analiza las dificultades a las que se enfrentarían los legisladores si quisieran prohibirlas</a>.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://twitter.com/skew_markets/status/1156921114574118912" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Excelente resumen del estado del mercado de criptomonedas realizado por Skew.</a> El resumen: parece que el precio de Bitcoin se está consolidando alrededor de los $10,000 dólares y empieza a moverse de manera lateral, está bajando la volatilidad desde el pico de junio y también el volumen, las alts siguen cayendo frente a Bitcoin.<br>
+<br>
+Toda la curva de rendimientos de la deuda alemana está en negativo. Esto significa que la gente está pagando por prestarle dinero a Alemania, incluso en los bonos a 30 años. <a href="https://twitter.com/jsblokland/status/1157021569417469952" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">La curva de Suiza está igual, y llega hasta los 50 años</a>. <a href="https://www.reuters.com/article/worldline-bonds-negativeyield/worldline-debt-issue-takes-negative-yields-to-new-frontiers-idUSL8N24R25J" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Prácticamente un tercio de toda la deuda mundial tiene retornos negativos, esto incluye la deuda privada</a>: <a href="https://www.barrons.com/articles/yields-go-negative-on-corporate-bonds-not-just-government-debt-51562942845" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Los inversionistas están pagando a Nestle por darle dinero prestado</a>. Lo que está ocurriendo no es normal, y nunca en la historia de la humanidad se habían mantenido los intereses negativos durante tanto tiempo. Bitcoin parece un buen hedge sobre la posibilidad de que el dinero barato termine causando otra crisis financiera como la de 2008.</p>
+
+<a style="padding: 5px"></a>
+
+![Bloomberg](/../images/50.jpeg)
+
+<a style="padding: 10px"></a>
+
+<div style="border: 1px solid black;background: #F2F2F2; padding: 10px">
+<div style="text-align: center;">
+	<p dir="ltr" style="text-align: justify;color: #000000;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;">*Aviso parroquial*: este es el newsletter número 50, y se cumple <a href="https://mailchi.mp/808ccb837ae4/exponent-capital-newsletter" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">un año de su</a> primer número. En aquel entonces Bitcoin estaba a $7,000 dólares y todavía faltaba lo peor. A todos los que me leen muchísimas gracias, y un agradecimiento especial para todos aquellos que me han comunicado que son fans del newsletter, que lo esperan con ansia todos los lunes y que además lo comparten. La verdad es que a pesar de que sí es un esfuerzo darle forma todos los domingos, es algo que me divierte y que me gustaría seguir haciendo durante muchos años. Y si quieren ayudarme a que Crypto Weekly siga creciendo, ahora que parece que Bitcoin vuelve a estar de moda, <a href="http://eepurl.com/dDi9ij" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">compártanlo con sus amigos y conocidos con este link</a>.</p>
+</div>
+</div>
+
+<a style="padding: 10px"></a>
+
+<div style="border: 3px solid black;background: #F2F2F2; padding: 10px">
+<div style="text-align: center;">
+		<h3>LECTURAS DE LA SEMANA</h3>
+</div>
+
+
+<div>
+<div style="text-align: center;">
+<p dir="ltr" style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;"><strong id="None"><a href="https://www.coindesk.com/tether-usdt-russia-china-importers" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Millions in Crypto Is Crossing the Russia-China Border Daily. There, Tether Is King</a></strong></p>
+
+<p dir="ltr" style="text-align: justify;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;">Un artículo que analiza cómo las criptomonedas, en especial Tether, se está usando para meter y sacar dinero de China evadiendo los controles de capital. El artículo menciona que hasta 2018 la principal criptomoneda usada para estas transacciones era Bitcoin, debido a su liquidez, pero que después de la volatilidad de 2017/2018, todo ese volumen se fue a Tether, que es igual de líquida y además no sufre problemas de volatilidad. Después de la depreciación del Yuan chino el día de ayer, lo más probable es que estos flujos se intensifiquen aún más.</p>
+</div>
+</div>
+</div>
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

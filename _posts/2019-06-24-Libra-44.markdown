@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Libra, Libra, Libra, Libra, Libra, Libra… Ah, y Bitcoin llegó a los 11,000USD (#44)"
+title:  "44 - Libra, Libra, Libra, Libra, Libra, Libra… Ah, y Bitcoin llegó a los 11,000USD"
 date:   2019-06-24 09:00:00 -0600
-categories: newsletter
+categories: crypto-weekly
 ---
 
 ![Banner](/../images/banner.png)
@@ -46,9 +46,10 @@ QuadrigaCX, el exchange canadiense cuyo fundador supuestamente murió en extrañ
 
 Algorand hizo su primera subasta y cerró el precio a $2.40USD que lo colocan con un market cap de unos 6,000 millones USD, por lo que sería la séptima moneda detrás de EOS y delante de Binance Coin. Por ahora sólo hay 2.5B de ALGOs en circulación, un 25% del total, cada año sacarán 600M hasta llegar al máximo de 10B. Extrapolando los precios de la subasta, su market cap entonces será de 24,000 millones de dólares.
 
-LECTURA DE LA SEMANA
+<h3>LECTURA DE LA SEMANA</h3>
 
 Libra Whitepaper
+
 Es un link a un zip con todos los papers de Libra. 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

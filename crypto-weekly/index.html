@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<h2>Blog</h2>
-{% for post in site.categories.newsletter %}
+<h2>Crypto Weekly</h2>
+{% for post in site.categories.crypto-weekly %}
 		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
