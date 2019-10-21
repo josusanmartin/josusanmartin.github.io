@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "60 - Bitso levanta una nueva ronda de inversión"
+date:   2019-10-13 09:00:00 -0600
+categories: crypto-weekly
+---
+
+![Banner](/../images/banner.png)
+
+<div style="background: #404040; padding: 10px; margin-top: 50px; margin-bottom: 30px;">
+<div style="text-align: center;">
+ <div style="color: #F2F2F2;"><span style="font-size:14px">Si quieres recibir este Newsletter todos los lunes puedes  <a href="http://eepurl.com/dDi9ij" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">hacer click aquí para suscribirte</a></span></div>
+</div>
+</div>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://twitter.com/JavierMtzMorodo/status/1184885793917194240" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">El pasado jueves se constituyó formalmente, ante notario, la Asociación Blockchain de México</a>, y en los próximos meses debería estar ya todo listo para empezar a aceptar nuevos miembros. Si están interesados en sumarse, la Asociación puso a su disposición<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiDd6YBci7xZnUdQ9Ire5eMQjbsy9l4HWNFhfIHN7Ghda16Q/viewform" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;"> el siguiente formulario de registro</a>.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://www.coindesk.com/fidelity-digital-assets-opens-to-all-qualified-investors" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Fidelity abrió a todos sus clientes calificados la plataforma de custodia&nbsp;y trading de activos virtuales:&nbsp;Fidelity Digital Asset Services (FDAS)</a>. Fidelity es uno de los administradores de fondos más grande del mundo con $2.8 trillones de dólares.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://medium.com/@layer1/series-a-a2d30932895f" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Layer1, una startup de minería de Bitcoin, levantó $50 millones de dólares a una valuación de $200</a>. Actualmente, alrededor del 60% de la minería de Bitcoin y el 100% de la producción de hardware de minería están concentrados en China. Layer1 pretende terminar con esta hegemonía&nbsp;mediante la integración vertical, ya que no sólo minará, sino que también creará su propio equipo de minería. Sin duda una noticia muy importante para la descentralización de Bitcoin.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;">Estoy pensando en abrir un apartado en el newsletter para noticias relacionadas con blockchain en lugares donde no deberían haber usado blockchain. Si la semana pasada era en el sistema de transportes de Madrid, esta semana es en unos tenis de New Balance. <a href="https://siliconangle.com/2019/10/17/sneakers-meet-blockchain-new-balance-pilot-shoe-authenticity/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">New Balance usará blockchain para certificar la autenticidad de sus tenis</a>. Además, parece que usarán la red de Cardano, una plataforma de smart contracts que compite con Ethereum. Blockchain no aporta nada aquí, un código QR y una base de datos totalmente centralizada controlada por New Balance es suficiente.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://grayscale.co/insights/grayscale-q3-2019-digital-asset-investment-report/?utm_medium=partner&amp;utm_source=fortune&amp;utm_campaign=2019_q3_investment_report" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Grayscale, uno de los mayores fondos de criptomonedas, recibió $254.9 millones de dólares en nuevas inversiones en el tercer trimestre de 2019</a>, multiplicándose por 3 desde el trimestre anterior ($84.8M). De esos $255 millones, $171.7 fueron para el fondo de Bitcoin. En total, Grayscale administra $2,100 millones de dólares.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://www.theblockcrypto.com/linked/43550/telegram-to-delay-ton-blockchain-launch-could-return-investors-money-after-sec-lawsuit" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Telegram retrasó el lanzamiento de su blockchain, TON, hasta el 30 de abril de 2020 debido a la acción tomada la semana pasada por la SEC</a>.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://brave.com/brave-reaches-8-million-monthly-active-users-and-delivers-nearly-400-privacy-preserving-ad-campaigns/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Brave, el navegador de internet centrado en la privacidad e integrado con criptomonedas, anunció que tiene 8 millones de usuarios al mes.&nbsp;</a></p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://libra.org/wp-content/uploads/2019/10/Libra-Association-Charter-Press-Release-.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Los 21 miembros sobrevivientes de Libra, se reunieron en Génova, y reafirmaron su apoyo al proyecto</a>. 21, curioso.</p>
+
+<p dir="ltr" style="text-align: justify;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-family: Helvetica;font-size: 15px;line-height: 150%;"><a href="https://twitter.com/Bitso/status/1185347306414993409" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">Si siempre les ha interesado el trading, pero no saben por dónde empezar, David Puell, Head of Research en Adaptive Capital, impartirá un curso organizado por Bitso</a>. David es uno de mis analistas favoritos de Bitcoin y <a href="https://medium.com/adaptivecapital/bitcoin-delta-capitalization-1d51a7b256b4" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">es autor de este excelente artículo</a> en el que habla de un indicador que él mismo desarrolló para detectar los tops y los bottoms de Bitcoin.</p>
+
+<div style="border: 3px solid black;background: #F2F2F2; padding: 10px">
+<div style="text-align: center;">
+	<h3>LECTURA DE LA SEMANA</h3>
+</div>
+
+<div>
+<div style="text-align: center;">
+<p dir="ltr" style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;"><a href="https://blog.bitmex.com/the-schnorr-signature-taproot-softfork-proposal/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">The Schnorr Signature &amp; Taproot Softfork Proposal</a></p>
+
+<p dir="ltr" style="text-align: justify;color: black;font-family: Helvetica;font-size: 14px;font-weight: normal;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 150%;">Excelente análisis y resumen de las dos principales propuestas de escalamiento de la red de Bitcoin. Es probable que en los próximos meses se empiece a hablar de un posible soft-fork para incluir estas mejoras, por lo que es una forma de estar enterado para las discusiones&nbsp;que indudablemente van a suceder en Twitter y otros foros. Esperemos que este fork termine siendo menos conflictivo&nbsp;que el de SegWit de 2017.&nbsp;</p>
+
+</div>
+</div>
+</div>
+
+<div style="background: #404040; padding: 10px; margin-top: 50px; margin-bottom: 30px;">
+<div style="text-align: center;">
+ <div style="color: #F2F2F2;"><span style="font-size:14px">Si quieres recibir este Newsletter todos los lunes puedes  <a href="http://eepurl.com/dDi9ij" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #ED1B24;font-weight: bold;text-decoration: none;">hacer click aquí para suscribirte</a></span></div>
+</div>
+</div>
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
