@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Welcome
+<h2>Posts</h2>
+{% for post in site.categories.blog %}
+		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+{% endfor %}
 
-This homepage is a placeholder for now. You can find the posts at
-[Crypto Weekly](/crypto-weekly/).
+<p>More: <a href="/crypto-weekly/">Crypto Weekly</a></p>
