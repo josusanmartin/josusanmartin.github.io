@@ -2,7 +2,7 @@
 layout: post
 title:  "Bitcoin is a store of value"
 date:   2019-03-26 14:33:26 -0600
-categories: blog
+categories: crypto-weekly
 ---
 
 Placeholder for a great post
