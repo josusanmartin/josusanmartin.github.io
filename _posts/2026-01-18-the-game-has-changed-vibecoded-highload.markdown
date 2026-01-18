@@ -14,6 +14,8 @@ I've always loved programming, but never found the time to actually become a goo
 
 I merged my first PR into our HFT system written in Clojure. I updated our secrets manager to add a salt to our keys. I won 4th place in a hackathon. I finally launched my correlations website. I built my own trading system from scratch that traded profitably. It was as if I had acquired superpowers.
 
+![Still from the Matrix Movie where Neo mentions "I know Kung Fu"](/images/highload/highload-kung-fu.jpg)
+
 Back in 2023, you still had to co-write the code (and fix ChatGPT's mistakes), so I mostly stuck to Python, JavaScript, and Clojure, languages I could read and that I was familiar with. But with the introduction of agents, and the improvements in the latest models, that all changed. Toward the end of last year, I realized I was no longer reading the code I was writing: either it was doing what I wanted it to do, or it wasn't, and I just had to prompt it again. So if the programming language got abstracted away, why not go with the best-performing language available: Rust.
 
 So for Advent of Code 2025 I decided to solve it using Rust, and to solve all problems under 1 ms. That goal ended up being too ambitious at the time, and I settled for solving it in under 2 ms.
