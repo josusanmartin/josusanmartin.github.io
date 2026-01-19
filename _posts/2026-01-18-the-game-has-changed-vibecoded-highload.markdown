@@ -32,8 +32,6 @@ That was really fun, so I shared the project with some friends, and that's what 
 
 [Highload.fun](https://highload.fun) is a website where high-performance programmers compete to solve trivial problems in the shortest amount of time. All the code is run on a server with the same hardware: a 2014 Intel Xeon CPU E3-1271 v3 @ 3.60GHz. You submit code that reads from STDIN and writes to STDOUT, and the platform measures how much CPU time your code spent. Solving the problem is trivial, but getting to #1 on the leaderboard requires a deep understanding of memory management, branching, parsing, cache misses, CPU gates...
 
-![Highload.fun leaderboard screenshot](/images/highload/extracted/highload-03.png)
-
 So, on December 18, 2025, I opened VS Code with Claude Code and Codex and got at it. My one-shot attempt for task 15 scored 195,157, landing me at position 68 out of 129 entries. Not bad, to be honest, but I wanted to get to number 1. I kept iterating and by the next day I was already at 35,753 and had made it to the top 10 on the leaderboard.
 
 By December 23rd, I was already at number 4 on the leaderboard. But I had hit a wall. No matter how many micro-optimizations I tried, it seemed impossible to make any progress. I decided to switch to C++ at one point, and I gained a few microseconds with that.
