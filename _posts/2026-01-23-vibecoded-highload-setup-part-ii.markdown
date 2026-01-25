@@ -208,9 +208,7 @@ To get to #1 you usually need a fundamental insight:
 - reframe the problem so your hot loop becomes tiny
 - or completely change the approach
 
-This is also where you hit the main enemy:
-
-**local optima.**
+This is also where you hit the main enemy: **local optima.**
 
 Agents love climbing the hill you put them on. They're great at tuning knobs. They're bad at admitting the entire hill is the wrong mountain.
 
@@ -229,6 +227,10 @@ What breaks you out is profiling + reframing:
 - "If this subroutine costs 30 cycles, it can't be part of a winning design."
 
 Once you see that, you stop asking "how do I optimize this?" and start asking "how do I delete it?"
+
+You also need to be careful and don't allow the LLMs to gaslight you. They will try to convince you that the goal is literally impossible. You need to keep your ground and be stubborn. 
+
+![Sometimes the goal is physically impossible](/images/highload/100ms.jpeg)
 
 ## The weird part: LLM biases are real
 
@@ -272,8 +274,6 @@ At that point the conclusion is simple:
 - your clever structure doesn't matter
 - you're doomed until parsing is basically free
 - or until you stop parsing so much in the first place
-
-![Sometimes the goal is physically impossible](/images/highload/100ms.jpeg)
 
 Same story with Bloom filters:
 - Bloom filter got me to like #5/#6 on a task
