@@ -54,13 +54,13 @@ I even had to set my phone screen timeout to 10 minutes so it wouldn't go to sle
 ## My tools (who I use for what)
 
 **Claude Code**  
-This is the iteration monster. It's really good at taking "try 6 variations of this idea" and just... doing it. It will generate multiple versions, run benchmarks, and tell you what won.
+This is the iteration monster. It's really good at taking "try 6 variations of this idea" and just doing it. It will generate multiple versions, run benchmarks, and tell you what won.
 
 **Codex (VS Code extension)**  
 The VS Code extension is clutch because it doesn't constantly nag for permissions the way some terminal workflows do. If you give it the keys, it will keep iterating like a caffeinated intern who doesn't know fear.
 
 **Terminal agents (Claude/Codex)**  
-I run Claude a lot from the terminal because the permission prompts can get annoying in-editor. On servers I'm... let's say... less precious about permissions than on my laptop.
+I run Claude a lot from the terminal because the permission prompts can get annoying in-editor.
 
 **ChatGPT Pro**
 
