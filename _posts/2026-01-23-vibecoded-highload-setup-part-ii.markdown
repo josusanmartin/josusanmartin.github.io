@@ -5,9 +5,11 @@ date: 2026-01-23 10:00:00 -0600
 categories: blog
 ---
 
-This is Part II. Part I is here: [https://josusanmartin.com/blog/2026/01/18/the-game-has-changed-vibecoded-highload.html](https://josusanmartin.com/blog/2026/01/18/the-game-has-changed-vibecoded-highload.html).
+*This is Part II. Part I is here: [https://josusanmartin.com/blog/2026/01/18/the-game-has-changed-vibecoded-highload.html](https://josusanmartin.com/blog/2026/01/18/the-game-has-changed-vibecoded-highload.html).*
 
-TL;DR: My setup is not an automated multi-agent pipeline. I mostly work out of VS Code on my MacBook, iterate + profile on a fast Contabo box, and validate on a Hetzner instance that matches the Highload CPU. Then I submit to Highload for the final verdict.
+*TL;DR: My setup is not an automated multi-agent pipeline. I mostly work out of VS Code on my MacBook, iterate + profile on a fast Contabo box, and validate on a Hetzner instance that matches the Highload CPU. Then I submit to Highload for the final verdict.*
+
+--- 
 
 After sharing my results on Twitter, the most common request was: "Okay, what's your setup?"
 
