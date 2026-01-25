@@ -22,7 +22,7 @@ So if you want something more usable (and more automated), see: [https://x.com/y
 **MacBook Pro M3 Max**  
 This is my main machine. It's where I write, read, prompt, diff files, copy leaderboards, and generally live.
 
-**A fast Intel server (Contabo)**  
+**A fast server (Contabo — AMD EPYC 7282 16-Core Processor)**  
 This one is my "workhorse" box. It's close-ish to the Highload judge CPU behavior, and most importantly: I can run `perf` on it. Profiling is half the game, and you can't profile what you can't see.
 
 **A Hetzner instance that matches the Highload CPU (E3-1271 v3)**  
