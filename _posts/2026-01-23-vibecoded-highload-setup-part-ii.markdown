@@ -44,10 +44,10 @@ I basically live in **VS Code**. Usually multiple windows:
 - One remote VS Code (Contabo)
 - Sometimes another remote VS Code (Hetzner)
 
-And yeah... I did a lot of iteration on my phone too. Two ways:
+And yeah… I did a lot of iteration on my phone too. Two ways:
 
-1) Using Claude/Codex/ChatGPT in the cloud (surprisingly usable)
-2) SSH'ing into the servers and running scripts like a goblin
+1. Using Claude/Codex/ChatGPT in the cloud (surprisingly usable)
+2. SSH’ing into the servers and running scripts like a goblin
 
 I even had to set my phone screen timeout to 10 minutes so it wouldn't go to sleep mid-run and kill my flow.
 
@@ -101,6 +101,8 @@ So what's my source of truth?
 **Highload.**  
 If I need to come back to a task, I go to my submission history and find the best-scoring code. That's my "version control." It's not correct. It's not moral. But it works.
 
+![Highload submission history screenshot](/images/highload/best.png)
+
 ## File naming: version control by sheer aggression
 
 Instead of task24.cpp, I have things like:
@@ -109,6 +111,8 @@ Instead of task24.cpp, I have things like:
 - 24_v188_codex_no_sort.cpp
 - 24_v189_try_simd_mask.cpp
 - 15_v061_rust_unsafe_parse2.rs
+
+![A tiny slice of the chaos](/images/highload/files.png)
 
 It's not pretty, but it solves a real problem: I can compare files instantly.
 
@@ -268,6 +272,8 @@ At that point the conclusion is simple:
 - your clever structure doesn't matter
 - you're doomed until parsing is basically free
 - or until you stop parsing so much in the first place
+
+![Sometimes the goal is physically impossible](/images/highload/100ms.jpeg)
 
 Same story with Bloom filters:
 - Bloom filter got me to like #5/#6 on a task
