@@ -3,7 +3,143 @@
 
 @import "minima";
 
-.post-content {
-  text-align: justify !important;
+.wrapper {
+  max-width: calc(1000px - (30px * 2));
 }
 
+.post {
+  max-width: 76ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.post-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.post-title {
+  font-size: clamp(1.9rem, 3.2vw, 2.6rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+}
+
+.post-meta {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  text-align: start;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
+// Some older posts include inline `text-align: justify` from email exports.
+// Override those for a more modern, readable ragged-right layout.
+.post-content p,
+.post-content li {
+  text-align: start !important;
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  margin-top: 2.2rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  scroll-margin-top: 5rem;
+}
+
+.post-content h2 {
+  font-size: 1.55rem;
+}
+
+.post-content h3 {
+  font-size: 1.25rem;
+}
+
+.post-content a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.09em;
+  text-underline-offset: 0.18em;
+}
+
+.post-content a:hover {
+  text-decoration-thickness: 0.13em;
+}
+
+.post-content blockquote {
+  margin: 1.6rem 0;
+  padding: 0.9rem 1.1rem;
+  border-left: 4px solid rgba(0, 0, 0, 0.15);
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 0.75rem;
+}
+
+.post-content blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.post-content pre,
+.post-content code {
+  font-variant-ligatures: none;
+}
+
+.post-content code {
+  padding: 0.15em 0.35em;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.4em;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.post-content pre {
+  padding: 1rem 1.1rem;
+  border-radius: 0.9rem;
+  background: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  overflow: auto;
+}
+
+.post-content pre code {
+  padding: 0;
+  background: transparent;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.post-content hr {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.post-content th,
+.post-content td {
+  padding: 0.6rem 0.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  vertical-align: top;
+}
+
+@media (min-width: 900px) {
+  .post-content {
+    font-size: 1.1rem;
+  }
+}
