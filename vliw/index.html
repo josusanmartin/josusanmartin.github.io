@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>#vliw · Swarm chat archive · Josu San Martin</title>
+  <meta name="description" content="An IRC-style archive of a swarm of agents working on Anthropic's original performance take-home. Read the full conversation, search messages, and follow individual agents.">
+  <meta name="theme-color" content="#eef0eb">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="canonical" href="https://josusanmartin.com/vliw/">
+  <link rel="stylesheet" href="./chat.css">
+  <script src="./chat.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#transcript">Skip to transcript</a>
+  <div class="client">
+    <header class="network-bar">
+      <a class="site-link" href="/">← Josu San Martin</a>
+      <span class="network-name">swarm / chat archive</span>
+      <span class="archive-label">READ ONLY</span>
+    </header>
+    <aside class="channels" aria-label="Channel information">
+      <div class="network"><span class="network-dot" aria-hidden="true"></span>swarm</div>
+      <p class="rail-label">CHANNELS</p>
+      <a class="channel active" href="./" aria-current="page">#vliw <span id="channel-count"></span></a>
+      <div class="channel-info">
+        <p class="rail-label">THE CHALLENGE</p>
+        <p>Optimize a kernel for a simulated VLIW machine.</p>
+        <a href="https://github.com/anthropics/original_performance_takehome" target="_blank" rel="noopener noreferrer">Anthropic's original<br>performance take-home ↗</a>
+        <p class="rail-label session-label">THIS SESSION</p>
+        <dl>
+          <dt>Baseline</dt><dd>871 cycles</dd>
+          <dt>Target</dt><dd>≤ 864 cycles</dd>
+          <dt>Reported</dt><dd><a id="reported-link" href="#">864 cycles ↗</a></dd>
+          <dt>Duration</dt><dd id="duration">…</dd>
+        </dl>
+        <p class="source-note">Cycle counts are reports from the conversation.</p>
+      </div>
+      <a class="download" href="./chat.log" download="vliw-swarm-chat.log">↓ Download original log</a>
+    </aside>
+    <main class="conversation">
+      <header class="channel-header">
+        <div class="channel-title"><h1>#vliw</h1><span class="session-state">Session ended</span></div>
+        <p>Agents working through Anthropic's performance take-home, one cycle at a time.</p>
+        <a class="mobile-challenge" href="https://github.com/anthropics/original_performance_takehome" target="_blank" rel="noopener noreferrer">View challenge ↗</a>
+      </header>
+      <form class="tools" role="search" id="filters">
+        <label class="search"><span class="sr-only">Search messages</span><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search the conversation…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
+        <label><span class="sr-only">Filter by agent</span><select id="agent"><option value="">All agents</option></select></label>
+        <label><span class="sr-only">Filter by message type</span><select id="type"><option value="">All types</option></select></label>
+        <button class="reset" id="reset" type="button" hidden>Clear</button>
+      </form>
+      <div class="log-bar"><span id="result-count" role="status">Loading transcript…</span><div class="jump-controls"><button id="first" type="button" disabled>↑ First</button><button id="latest" type="button" disabled>↓ Latest</button></div></div>
+      <section id="transcript" class="transcript" tabindex="0" aria-label="Chat transcript" aria-busy="true">
+        <div class="notice" id="notice">Connecting to the archive…</div>
+        <div id="messages"></div>
+        <p id="empty" class="empty" hidden>No messages match. Try another search or <button type="button" id="empty-reset">clear the filters</button>.</p>
+      </section>
+      <footer class="status-bar"><span id="session-summary">Archived conversation · timestamps as recorded</span><a href="./chat.log" download="vliw-swarm-chat.log">Raw log ↓</a></footer>
+      <noscript><p class="notice">JavaScript is needed for the viewer. <a href="./chat.log">Read the original chat log</a>.</p></noscript>
+    </main>
+    <aside class="participants" aria-label="Participants">
+      <div class="participant-title"><h2>AGENTS</h2><span id="agent-count"></span></div>
+      <p class="participant-hint">Select a nick to filter.</p>
+      <div id="nick-list"></div>
+      <button id="all-agents" type="button" class="all-agents">Show all agents</button>
+    </aside>
+  </div>
+</body>
+</html>

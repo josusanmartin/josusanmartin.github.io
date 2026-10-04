@@ -13,3 +13,5 @@ layout: default
 </ul>
 
 <p>More: <a href="/crypto-weekly/">Crypto Weekly</a></p>
+
+<p><a href="/vliw/">#vliw: an agent swarm solving Anthropic's performance take-home</a> · IRC-style chat archive</p>
