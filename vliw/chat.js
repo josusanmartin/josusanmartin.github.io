@@ -5,10 +5,27 @@ const transcript = $("transcript");
 const search = $("search");
 const agent = $("agent");
 const type = $("type");
-const colors = ["#356353", "#73508a", "#335f91", "#905029", "#82506b", "#526333", "#3a6774", "#715f37"];
+const colors = Array.from({ length: 8 }, (_, index) => `var(--nick-${index})`);
 let messages = [];
 let nickColors = new Map();
 let visible = [];
+
+function setTheme(theme, save = false) {
+  document.documentElement.dataset.theme = theme;
+  const nextTheme = theme === "dark" ? "light" : "dark";
+  $("theme-toggle").textContent = `${nextTheme === "light" ? "Light" : "Dark"} mode`;
+  $("theme-toggle").setAttribute("aria-label", `Switch to ${nextTheme} mode`);
+  $("theme-toggle").hidden = false;
+  document.querySelector('meta[name="theme-color"]').content = theme === "light" ? "#eef0eb" : "#191d1b";
+  if (save) {
+    try { localStorage.setItem("vliw-theme", theme); } catch (_) {}
+  }
+}
+
+setTheme(document.documentElement.dataset.theme);
+$("theme-toggle").addEventListener("click", () => {
+  setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true);
+});
 
 function parseLog(text) {
   let day = 0;
