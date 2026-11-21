@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Zeros on the critical line · Josu San Martin</title>
+<meta name="description" content="Explore the first ten zeta zeros and read a reproducible Lean formalization of the 83.625% critical-line bound.">
+<meta name="theme-color" content="#f7f7ed"><link rel="canonical" href="https://josusanmartin.com/riemannzeta/">
+<meta property="og:title" content="Zeros on the critical line"><meta property="og:description" content="Explore the zeta function, read the note, and replay the proof of an 83.625% lower bound in Lean.">
+<link rel="stylesheet" href="style.css"><script src="zeros.js" defer></script><script src="explore.js" defer></script>
+</head><body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top wrap"><a class="by" href="/">Josu San Martin</a><span class="divider">/</span><span class="top-sub">Research notes</span><a class="top-jump" href="#proof">The proof <span aria-hidden="true">↘</span></a></header>
+<main id="main">
+<section class="hero wrap">
+<div class="hero-copy"><p class="kicker"><span class="rule"></span> Formalization note <span>·</span> 21 Nov 2026</p>
+<h1>Zeros on the<br><em>critical line.</em></h1>
+<p class="lead">A Lean-checked proof puts a lower bound of <strong>83.625%</strong> on the share of zeta zeros accounted for by distinct points on the critical line as the height grows.</p>
+<div class="actions"><a class="solid" href="paper.pdf">Read the paper <span aria-hidden="true">↗</span></a><a class="under" href="critical-line-669-lean.zip" download>Download the Lean proof <span aria-hidden="true">↓</span></a></div>
+</div>
+<figure class="scope" id="scope" aria-label="Interactive graph of the first ten zeta zeros">
+<div class="scope-head"><span class="scope-name"><b aria-hidden="true">∿</b> Zeta oscilloscope</span><span class="channel">Re(<i>s</i>) = ½</span></div>
+<div class="plotbox"><canvas id="plot" aria-label="Graph of Hardy’s Z function from height 10 to 52. Use the zero selector below to inspect each crossing."></canvas><noscript><p>Enable JavaScript to explore the ten crossings. The linked paper contains the full theorem.</p></noscript></div>
+<div class="scope-read"><div><span class="scope-label">Zero <b id="ordinal">01 / 10</b></span><output id="height" aria-live="polite">14.134725</output><span class="height-unit">imaginary height <i>t</i></span></div><div class="arrows"><button id="prev" type="button" aria-label="Previous zero" disabled>←</button><button id="next" type="button" aria-label="Next zero">→</button></div></div>
+<label class="scrub" for="zero"><span>Select a zero</span><input id="zero" type="range" min="1" max="10" step="1" value="1"></label>
+<figcaption>Each crossing marks a zero of ζ(½ + <i>it</i>). Select a marker or move the slider to inspect its height.</figcaption>
+</figure>
+</section>
+<section class="result"><div class="wrap result-inner"><div class="result-number">83.625<span>%</span></div><div class="result-copy"><p class="kicker">The lower bound</p><h2>One location, one count.</h2><p>The numerator counts each distinct zero on the line once. The denominator counts every nontrivial zero with its multiplicity. A double zero contributes one above the fraction bar and two below it.</p></div></div></section>
+<section class="wrap proof" id="proof"><div class="proof-title"><p class="kicker">Inside the proof</p><h2>Two theorems,<br>one <em>corollary.</em></h2><p>The plot shows ten examples. The proof covers arbitrarily large heights.</p></div><div class="steps">
+<article><span class="formula" aria-hidden="true">N<sub>d</sub></span><div><h3>Count distinct zeros</h3><p>Alpöge and Furman prove a lower bound for distinct zeros anywhere in the critical strip. Their constant is slightly larger than 669/800.</p></div></article>
+<article><span class="formula" aria-hidden="true">½</span><div><h3>Place them on the line</h3><p>Alpöge’s released Lean theorem places every nontrivial zero at real part ½. The distinct count in the strip therefore equals the distinct count on the line in each window.</p></div></article>
+<article><span class="formula" aria-hidden="true">κ</span><div><h3>Check both windows</h3><p>Lean checks the exact fraction 669/800 from height <i>T</i> to 2<i>T</i> and from 0 to <i>T</i>. For every ε &gt; 0, both proportions are at least 669/800 − ε at all sufficiently large heights.</p></div></article>
+</div></section>
+<section class="wrap reading"><div><p class="kicker">Paper &amp; source</p><h2>Checking the 669/800<br>critical-line bound in Lean</h2><p>Josu San Martin · November 2026</p><a class="solid" href="paper.pdf">Read the paper <span aria-hidden="true">↗</span></a></div>
+<div class="resources"><a href="critical-line-669-lean.zip" download><span>Lean source &amp; build script</span><small>ZIP ↓</small></a><a href="verification.txt"><span>Kernel replay &amp; axiom audit</span><small>TXT ↗</small></a><a href="https://arxiv.org/abs/2608.13637"><span>The distinct-zero theorem</span><small>arXiv ↗</small></a><a href="https://alpo.ge/remark.pdf"><span>The RH announcement</span><small>PDF ↗</small></a><a href="https://math.mit.edu/~drew/grh/"><span>Independent RH checks</span><small>MIT ↗</small></a></div></section>
+</main><footer class="wrap foot"><a href="/">Josu San Martin</a><span>ζ(½ + <i>it</i>)</span><a href="#main">Back to top ↑</a></footer>
+</body></html>
