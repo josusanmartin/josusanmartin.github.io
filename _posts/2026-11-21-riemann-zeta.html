@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Getting two Riemann zeta proofs to compile together"
+date: 2026-11-21 10:10:00 -0600
+categories: blog
+permalink: /riemannzeta/
+description: "I asked Codex to submit an 83.625% bound to the Riemann zeta leaderboard. The rejection led to a working Lean proof."
+excerpt: "I had a fraction, a Lean file, and a verifier willing to tell me whether the two belonged together."
+---
+
+<link rel="stylesheet" href="/riemannzeta/style.css">
+<script defer src="/riemannzeta/zeros.js"></script>
+<script defer src="/riemannzeta/explore.js"></script>
+<div class="zeta-entry">
+<p>On Friday night I asked Codex to submit a Lean file to the Riemann zeta leaderboard and wait for the verdict. The record was about 67.36%. The number I wanted to submit was 669/800, or 83.625%. I gave it permission to keep working while I slept.</p>
+
+<p>The site rejected the submission. Just above the backtrace, the log said <code>Build completed successfully (8838 jobs).</code> So what, exactly, had it checked?</p>
+
+<h2>Where 83.625% came from</h2>
+<p>Back in August, Levent Alpöge and Ralph Furman proved a bound on how many distinct zeros the Riemann zeta function has. Imagine a window containing four simple zeros and one double zero. You can point to five different locations, but the total count is six because the double zero counts twice. The fraction of distinct zeros in that example is 5/6.</p>
+
+<p>Their theorem gives a lower bound slightly above 83.625% for distinct zeros anywhere in the critical strip as the height grows. The leaderboard counts only distinct zeros <em>on the critical line</em>, where the real part is ½. On November 20, Alpöge released a Lean proof of the Riemann hypothesis, which says that every nontrivial zero lies on that line. If I could use that theorem in the same Lean file, every distinct zero in the August result would count toward the leaderboard’s numerator. <a href="https://arxiv.org/html/2608.13637v2">The August paper</a> · <a href="https://alpo.ge/remark.pdf">Alpöge’s announcement</a></p>
+<figure class="scope" id="scope" aria-label="Interactive graph of the first ten zeta zeros">
+<div class="scope-head"><span class="scope-name"><b aria-hidden="true">∿</b> The first ten zeros</span><span class="channel">Re(<i>s</i>) = ½</span></div>
+<div class="plotbox"><canvas id="plot" aria-label="Graph of Hardy’s Z function from height 10 to 52. Use the zero selector below to inspect each crossing."></canvas><noscript><p>Enable JavaScript to explore the ten crossings. The linked paper contains the full theorem.</p></noscript></div>
+<div class="scope-read"><div><span class="scope-label">Zero <b id="ordinal">01 / 10</b></span><output id="height" aria-live="polite">14.134725</output><span class="height-unit">imaginary height <i>t</i></span></div><div class="arrows"><button id="prev" type="button" aria-label="Previous zero" disabled>←</button><button id="next" type="button" aria-label="Next zero">→</button></div></div>
+<label class="scrub" for="zero"><span>Select a zero</span><input id="zero" type="range" min="1" max="10" step="1" value="1"></label>
+<figcaption>Hardy’s <i>Z</i>(<i>t</i>) crosses zero at the same heights as ζ(½ + <i>it</i>). Click a crossing or use the arrows to see its height.</figcaption>
+</figure>
+
+<h2>The missing argument</h2>
+<p>The submission log showed an argument called <code>hRH : RiemannHypothesis</code>. In Lean terms, I had a function waiting for an input. Give it a proof of RH and it returns the 83.625% bound. That explains the successful build. The leaderboard requires a theorem it can check without supplying the input.</p>
+
+<p>The first error the site actually reported was more mundane. Its exporter looked for a declaration named <code>candidate_strict_improvement</code> and couldn’t find it. That part was easy to fix. The harder part was getting the published RH proof into the build. The site uses Lean 4.33.0-rc2 and accepts a single source file of up to 2 MB. The RH release uses Lean 4.33.1. Even the module we wanted to import pulled in about a gigabyte of Lean source. <a href="https://www.riemannzeta.fun/challenge">Leaderboard rules</a></p>
+
+<p>At that point I wanted to know whether the whole argument would compile on my Mac. Codex rebuilt the zero-counting library against the exact version of Mathlib used by the RH release. The original counting proofs compiled there. That let us import Alpöge’s theorem and pass it to the counting lemma. The finished file supplies <code>hRH</code> here.</p>
+
+<pre><code>(Zeta23.RH_implies_all_on_line
+  _root_.riemannHypothesis a b).2</code></pre>
+
+<p>The <code>.2</code> picks out the equality we need. In the interval from <i>a</i> to <i>b</i>, the number of distinct zeros on the line equals the number of distinct zeros in the strip.</p>
+
+<p>The finished file proves the bound from height <i>T</i> to 2<i>T</i> and from 0 to <i>T</i>. In either window, for any positive ε, the proportion is at least 669/800 − ε once <i>T</i> is sufficiently large. Both declarations passed Lean’s kernel replay. A second build from a fresh checkout produced the same axiom reports. For the RH dependency we used the published, hash-checked build artifacts. <a href="/riemannzeta/verification.txt">My verification log</a> · <a href="https://math.mit.edu/~drew/grh/">Andrew Sutherland’s checks of the RH release</a></p>
+
+<p>I started this for a leaderboard score and ended up with a file I can run on my Mac. The 83.625% bound already follows from the published math. My contribution here is getting the two developments to build together. If you have the RH checkout built, you can run <code>verify.sh</code> and check the result yourself.</p>
+
+<p class="post-files"><a href="/riemannzeta/paper.pdf">Read the two-page paper (PDF)</a> · <a href="/riemannzeta/critical-line-669-lean.zip" download>Download the Lean source (ZIP)</a></p>
+</div>

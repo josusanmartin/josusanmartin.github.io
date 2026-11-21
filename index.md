@@ -13,6 +13,3 @@ layout: default
 </ul>
 
 <p>More: <a href="/crypto-weekly/">Crypto Weekly</a></p>
-
-<h2>Research notes</h2>
-<p><a href="/riemannzeta/">Zeros on the critical line</a> · Explore the first ten zeros and read the Lean formalization of the 83.625% bound.</p>
